@@ -37,5 +37,24 @@ Cukup simpel bukan? Saya pun heran. <br>
 **Kemudian setelah 2 file tersebut dibuat, lalu kita run. Maka akan menghasilkan output sebagai berikut:**
 
 <div align="center">
+<img src="images/r00.png" >
+</div> <br>
+
+Dan disitu kita punya 3 opsi.
+**Tambah**
+**Ubah**
+**Hapus**
+<br>
+
+Mari kita coba opsi T (Tambah) dari source code **Book** diatas, maka output yang keluar adalah sebagai berikut : <br>
+
+<div align="center">
 <img src="images/r01.png" >
 </div> <br>
+
+***
+## Penjelasan
+
+- <br>
+- <br>
+- <br>

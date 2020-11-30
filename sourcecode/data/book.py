@@ -13,7 +13,7 @@ def add():
             break
 
         elif c.lower() == 'u':
-            print('============Ubah Nomor Telpon Mahasiswa============')
+            print('============Ubah Data Mahasiswa============')
             nama = input('Nama                          :  ')
             if nama in data.keys():
                 nama    =input("Nama                :  ")
@@ -34,7 +34,7 @@ def add():
             break
 
         elif c.lower() == 'u':
-            print('============Ubah Nomor Telpon Mahasiswa============')
+            print('============Ubah Data Mahasiswa============')
             nama = input('Nama                          :  ')
             if nama in data.keys():
                 nama    =input("Nama                :  ")
@@ -56,7 +56,7 @@ def add():
                 break
 
 def show():
-    print("Daftar Nomor Telepon Mahasiswa")
+    print("Data Mahasiswa")
     print("===========================================================")
     print(" |   NO   |     NAMA      |    NIM    |     NOMOR TELPON    | ")
     print("===========================================================")
