@@ -40,10 +40,10 @@ Cukup simpel bukan? Saya pun heran. <br>
 <img src="images/r00.png" >
 </div> <br>
 
-Dan disitu kita punya 3 opsi.
-**Tambah**
-**Ubah**
-**Hapus**
+Dan disitu kita punya 3 opsi: <br>
+**Tambah** <br>
+**Ubah** <br>
+**Hapus** <br>
 <br>
 
 Mari kita coba opsi T (Tambah) dari source code **Book** diatas, maka output yang keluar adalah sebagai berikut : <br>
