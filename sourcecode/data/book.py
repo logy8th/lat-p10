@@ -5,7 +5,7 @@ def add():
     while True:
         c  = input("(T)ambah, (U)bah, (H)apus: ")
         if c.lower() == 't':
-            print("=====Tambah Data Nomor Mahasiswa=====")
+            print("=====Tambah Data Mahasiswa=====")
             nama    =input("Nama                :  ")
             nim     =input("NIM                 :  ")
             nomortelpon =input("Nomor Telpon        :  ")
@@ -26,7 +26,7 @@ def add():
     while True:
         c  = input("(T)ambah, (U)bah, (H)apus: ")
         if c.lower() == 't':
-            print("=====Tambah Data Nomor Mahasiswa=====")
+            print("=====Tambah Data Mahasiswa=====")
             nama    =input("Nama                :  ")
             nim     =input("NIM                 :  ")
             nomortelpon =input("Nomor Telpon        :  ")
