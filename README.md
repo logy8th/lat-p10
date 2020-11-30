@@ -11,10 +11,11 @@ Repository ini dibuat untuk memenuhi tugas di pertemuan-10 <br>
 Untuk membuat task diatas saya harus membuat 2 file. <br>
 **Data** & **Main Script**
 <br>
+<br>
 **Untuk membuat file **Data** tersebut saya menggunakan source code dibawah ini :** <br>
 
 <div align="center">
-<img src="images/lab6task.png" >
+<img src="images/booksc.png" >
 </div> <br>
 
 Kemudian kita *save* di folder sendiri, disini saya menyimpan file **Data** kedalam folder **Data** dan saya simpan dengan file name *book*. <br>
@@ -28,5 +29,13 @@ Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di 
 **Kemudian untuk file **Main Script** nya sendiri saya menggunakan source code sebagai berikut :**
 
 <div align="center">
-<img src="images/booksc.png" >
+<img src="images/main.png" >
+</div> <br>
+
+Cukup simpel bukan? Saya pun heran. <br>
+
+**Kemudian setelah 2 file tersebut dibuat, lalu kita run. Maka akan menghasilkan output sebagai berikut:**
+
+<div align="center">
+<img src="images/r01.png" >
 </div> <br>
