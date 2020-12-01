@@ -63,13 +63,38 @@ Berjalan sesuai dengan yang kita inginkan. <br>
 <img src="images/ubah.png" >
 </div> <br>
 
-Data **Kelas** dari table sebelumnya berhasil kita ubah dengan opsi **Ubah**
+Data **Kelas** dari table sebelumnya berhasil kita ubah dengan opsi **Ubah**, Selanjutkan kita akan mencoba opsi **Hapus** : <br>
+Berikut tampilan dari menu **Hapus** : <br>
+
+<div align="center">
+<img src="images/hapus.png" >
+</div> <br>
+<br>
+
+Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result table yang sudah kita isi dengan data, setelah melalui proses sebelumnya.
 
 ***
 ## Penjelasan
 
 - `from data import book` = Syntax ini berfungsi untung *menginport* file *book* dari folder data.
 
-- <br>
+- `data={}` : Ini digunakan untuk menampung list dengan format **dictionary**. <br>
 
-- <br>
+- `menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar: ")` : Untuk menambah opsi **Tambah/Ubah/Hapus/Lihat/Cari/Keluar** dari variable menu. <br>
+
+- `break` : untuk menghentikan seluruh proses yang berjalan. <br>
+
+- `book.add()` : untuk summon dan run perintah dari sumber `book`
+
+- `book.show()` : untuk menampilkan sub menu `show` dari sumber `book`
+
+***
+**Sekian tugas saya untuk Repository ini, Terimkasih.**
+<br>
+
+<div align="center">
+<img src="images/tttd.png" >
+</div> <br>
+<br>
+
+**Naufal Nirwansyah**
