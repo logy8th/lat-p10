@@ -1,5 +1,11 @@
 # Lab-6
 Repository ini dibuat untuk memenuhi tugas di pertemuan-10 <br>
+<pre>
+Nama    : Naufal Nirwansyah 
+Kelas   : TI.20.A1
+NIM     : 312010174
+Dosen   : Agung Nugroho S.Kom, M.Kom
+</pre>
 ***
 
 **Berikut ini tugas yang diberikan oleh dosen saya :** <br>
@@ -86,7 +92,9 @@ Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result ta
 
 - `book.add()` : untuk summon dan run perintah dari sumber `book`
 
-- `book.show()` : untuk menampilkan sub menu `show` dari sumber `book`
+- `book.show()` : untuk menampilkan sub menu `show` dari sumber `book` <br>
+
+- `sub_data = input("(Semua), (Nama), (NIM), (Kelas), (NoTelepon), (AsalKota): ")` Untuk menambah pilihan opsi **Nama/NIM/Kelas/No Telepon/Asal Kota** dari variable opsi **Ubah**. <br>
 
 ***
 **Sekian tugas saya untuk Repository ini, Terimakasih.**
