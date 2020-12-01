@@ -37,8 +37,9 @@ Cukup simpel bukan? Saya pun heran. <br>
 **Kemudian setelah 2 file tersebut dibuat, lalu kita run. Maka akan menghasilkan output sebagai berikut:**
 <div align="center">
 <img src="images/result.png" >
-</div> <br> #Result
-Dan disitu kita punya 6 opsi: <br>
+</div> <br>
+
+**Dan disitu kita punya 6 opsi:** <br>
 
 **Lihat** <br>
 **Tambah** <br>
