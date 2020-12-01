@@ -8,7 +8,7 @@ Repository ini dibuat untuk memenuhi tugas di pertemuan-10 <br>
 <img src="images/lab6task.png" >
 </div> <br>
 
-Untuk membuat task diatas saya harus membuat 2 file. <br>
+Untuk membuat task diatas saya dengan source code sebagai berikut: <br>
 **Data** & **Main Script**
 <br>
 <br>
@@ -35,27 +35,29 @@ Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di 
 Cukup simpel bukan? Saya pun heran. <br>
 
 **Kemudian setelah 2 file tersebut dibuat, lalu kita run. Maka akan menghasilkan output sebagai berikut:**
-
 <div align="center">
-<img src="images/r00.png" >
-</div> <br>
+<img src="images/result.png" >
+</div> <br> #Result
+Dan disitu kita punya 6 opsi: <br>
 
-Dan disitu kita punya 3 opsi: <br>
+**Lihat** <br>
 **Tambah** <br>
-**Ubah** <br>
 **Hapus** <br>
-<br>
+**Ubah** <br>
+**Cari** <br>
+**Keluar** <br>
 
 Mari kita coba opsi T (Tambah) dari source code **Book** diatas, maka output yang keluar adalah sebagai berikut : <br>
 
 <div align="center">
-<img src="images/r01.png" >
+<img src="images/tambah.png" >
 </div> <br>
 
 ***
 ## Penjelasan
 
+- `from data import book` = Syntax ini berfungsi untung *menginport* file *book* dari folder data.
+
 - <br>
-- <br>
-- <br>
+
 - <br>
