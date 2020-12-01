@@ -89,7 +89,7 @@ Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result ta
 - `book.show()` : untuk menampilkan sub menu `show` dari sumber `book`
 
 ***
-**Sekian tugas saya untuk Repository ini, Terimkasih.**
+**Sekian tugas saya untuk Repository ini, Terimakasih.**
 <br>
 
 ![ttd](images/tttd.png)
