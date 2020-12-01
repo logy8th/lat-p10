@@ -54,6 +54,17 @@ Mari kita coba opsi T (Tambah) dari source code **Book** diatas, maka output yan
 <img src="images/tambah.png" >
 </div> <br>
 
+Berjalan sesuai dengan yang kita inginkan. <br>
+<br>
+
+**Sekarang kita akan mencoba opsi **Ubah**:** <br>
+
+<div align="center">
+<img src="images/ubah.png" >
+</div> <br>
+
+Data **Kelas** dari table sebelumnya berhasil kita ubah dengan opsi **Ubah**
+
 ***
 ## Penjelasan
 
