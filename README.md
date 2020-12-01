@@ -38,7 +38,6 @@ Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di 
 <img src="images/main.png" >
 </div> <br>
 
-Cukup simpel bukan? Saya pun heran. <br>
 
 **Kemudian setelah 2 file tersebut dibuat, lalu kita run. Maka akan menghasilkan output sebagai berikut:**
 <div align="center">
