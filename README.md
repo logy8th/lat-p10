@@ -92,9 +92,7 @@ Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result ta
 **Sekian tugas saya untuk Repository ini, Terimkasih.**
 <br>
 
-<div align="center">
-<img src="images/tttd.png" >
-</div> <br>
+![ttd](images/tttd.png)
 <br>
 
 **Naufal Nirwansyah**
