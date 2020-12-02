@@ -47,6 +47,9 @@ def add():
                        tabel[3], tabel[4]))
                 no += 1
 
+##Naufal Nirwansyah
+##TI20A1 - 312010174
+
         # Ubah
         elif menu.lower() == 'u':
             nama = input("Masukan nama untuk mengubah data: ")
