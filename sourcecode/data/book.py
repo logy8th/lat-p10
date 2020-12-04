@@ -27,7 +27,7 @@ def add():
 
         # Tambah
         elif menu.lower() == 't':
-            print("Masukan Data mahasiswa")
+            print("Masukan Data Mahasiswa Reguler")
             print("...")
             nama = input("Masukan Nama: ")
             nim = input("Masukan NIM: ")
@@ -46,9 +46,6 @@ def add():
                        tabel[1], tabel[2],
                        tabel[3], tabel[4]))
                 no += 1
-
-##Naufal Nirwansyah
-##TI20A1 - 312010174
 
         # Ubah
         elif menu.lower() == 'u':
@@ -112,7 +109,7 @@ def add():
             nama = input("Masukan nama untuk menghapus data : ")
             if nama in data.keys():
                 del data[nama]
-                print("sub_data '{}' berhasil dihapus.".format(nama))
+                print("Orang ini '{}' berhasil dihapus.".format(nama))
             else:
                 print("'{}' tidak ditemukan.".format(nama))
 

@@ -96,6 +96,13 @@ Untuk opsi **Lihat** dan **Keluar** dua opsi tersebut akan menampilkan result ta
 - `sub_data = input("(Semua), (Nama), (NIM), (Kelas), (NoTelepon), (AsalKota): ")` Untuk menambah pilihan opsi **Nama/NIM/Kelas/No Telepon/Asal Kota** dari variable opsi **Ubah**. <br>
 
 ***
+## Flowchart
+<div align="center">
+<img src="images/flowchart.png" >
+</div> <br>
+
+
+***
 **Sekian tugas saya untuk Repository ini, Terimakasih.**
 <br>
 
